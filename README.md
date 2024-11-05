@@ -40,7 +40,7 @@ The `initialize_network` function creates a neural network with one hidden layer
 
 ### 9. **Visualizing Training and Testing Curves**
    - `matplotlib` plots training and testing loss curves, allowing us to observe the convergence behavior and assess model generalization.
-
+![Visuals](training&validatingVisuals.png)
 ### 10. **Running and Evaluating the Model**
 After training and testing, the model's accuracy on test data is displayed. The curves, combined with accuracy metrics, reveal how well the network has generalized to unseen data.
 
