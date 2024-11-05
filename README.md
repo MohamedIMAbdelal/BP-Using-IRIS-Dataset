@@ -1,6 +1,3 @@
-Here's a well-structured explanation for your Google Docs document on implementing a backpropagation learning algorithm for the IRIS dataset.
-
----
 
 # Neural Network Implementation for IRIS Dataset Classification
 
@@ -48,6 +45,4 @@ After training and testing, the model's accuracy on test data is displayed. The 
    - Adjust `n_hidden`, `l_rate`, `n_epoch`, and `reg_lambda` to further optimize performance.
    - High regularization (`reg_lambda`) can prevent overfitting but may reduce performance if set too high.
 
---- 
 
-This structure covers the steps involved in implementing and optimizing the backpropagation algorithm for IRIS classification, with explanations of code functionality, parameters, and potential adjustments.
